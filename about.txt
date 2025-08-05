@@ -1,0 +1,3 @@
+Pyjunnisha
+I am currently pursuing my Bachelors Of Computer Applications
+I learned from github is it actions to automate the testing,deployment,and documentaion generation.This saves time and ensures consistency accross the project life cycle.
